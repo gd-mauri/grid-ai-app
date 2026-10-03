@@ -2,6 +2,15 @@
 
 A Streamlit application that produces synthetic relational data from a SQL schema using Google Gemini on Vertex AI, stores it in PostgreSQL, and lets you explore it with plain SQL.
 
+## Working App Screenshots
+
+<img width="1011" height="896" alt="Captura de pantalla 2026-10-03 a la(s) 2 56 25 p  m" src="https://github.com/user-attachments/assets/055799e7-6efa-44ac-a3b4-b20da372dc04" />
+
+<img width="1147" height="761" alt="Captura de pantalla 2026-10-03 a la(s) 2 57 04 p  m" src="https://github.com/user-attachments/assets/a3c02a6f-9c3e-4590-b043-00d6175a2662" />
+
+
+
+
 ## Features
 
 - **Data Generation** – Upload a DDL schema, optionally add custom instructions, and generate realistic rows for every table while keeping foreign keys consistent.
